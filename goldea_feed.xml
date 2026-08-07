@@ -4,7 +4,7 @@
     <sku/>
     <barcode/>
     <title>TEST Abonnement</title>
-    <price>139.95</price>
+    <price>27.95</price>
     <compare_at_price/>
     <available>true</available>
     <handle>test-abonnement</handle>
@@ -15,6 +15,16 @@
     <barcode/>
     <title>TEST Abonnement</title>
     <price>74.95</price>
+    <compare_at_price/>
+    <available>true</available>
+    <handle>test-abonnement</handle>
+    <description/>
+  </product>
+  <product>
+    <sku/>
+    <barcode/>
+    <title>TEST Abonnement</title>
+    <price>139.95</price>
     <compare_at_price/>
     <available>true</available>
     <handle>test-abonnement</handle>
