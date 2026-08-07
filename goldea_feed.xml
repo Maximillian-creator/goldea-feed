@@ -8,7 +8,23 @@
     <compare_at_price/>
     <available>true</available>
     <handle>test-abonnement</handle>
-    <description/>
+    <description>&lt;div class=&quot;flex items-center gap-1 checks&quot;&gt;
+&lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;24&quot; width=&quot;24&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#85a87c&quot; d=&quot;M5 14.5C5 14.5 6.5 14.5 8.5 18C8.5 18 14.0588 8.83333 19 7&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
+&lt;p class=&quot;text-sm leading-tight&quot;&gt;&lt;meta charset=&quot;utf-8&quot;&gt;De 5 best opneembare vormen in één capsule&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;flex items-center gap-1 checks&quot;&gt;
+&lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;24&quot; width=&quot;24&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#85a87c&quot; d=&quot;M5 14.5C5 14.5 6.5 14.5 8.5 18C8.5 18 14.0588 8.83333 19 7&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
+&lt;p class=&quot;text-sm leading-tight&quot;&gt;&lt;meta charset=&quot;utf-8&quot;&gt;Ondersteunt jouw energieniveau en spieren&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;flex items-center gap-1 checks&quot;&gt;
+&lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;24&quot; width=&quot;24&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#85a87c&quot; d=&quot;M5 14.5C5 14.5 6.5 14.5 8.5 18C8.5 18 14.0588 8.83333 19 7&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
+&lt;p dir=&quot;ltr&quot; class=&quot;text-sm leading-tight&quot;&gt;&lt;span&gt;100% natuurlijk en geproduceerd in Nederland!&lt;/span&gt;&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt; &lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;flex items-center gap-2 daily-q&quot;&gt;
+&lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;10&quot; width=&quot;10&quot; class=&quot;icon&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;circle stroke-width=&quot;1.5&quot; stroke=&quot;#171717&quot; r=&quot;10&quot; cy=&quot;12&quot; cx=&quot;12&quot;&gt;&lt;/circle&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#171717&quot; d=&quot;M12 8V12L14 14&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
+&lt;p class=&quot;text-sm leading-tight&quot;&gt;2 capsules per dag&lt;/p&gt;
+&lt;/div&gt;</description>
   </product>
   <product>
     <sku/>
@@ -18,7 +34,23 @@
     <compare_at_price/>
     <available>true</available>
     <handle>test-abonnement</handle>
-    <description/>
+    <description>&lt;div class=&quot;flex items-center gap-1 checks&quot;&gt;
+&lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;24&quot; width=&quot;24&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#85a87c&quot; d=&quot;M5 14.5C5 14.5 6.5 14.5 8.5 18C8.5 18 14.0588 8.83333 19 7&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
+&lt;p class=&quot;text-sm leading-tight&quot;&gt;&lt;meta charset=&quot;utf-8&quot;&gt;De 5 best opneembare vormen in één capsule&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;flex items-center gap-1 checks&quot;&gt;
+&lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;24&quot; width=&quot;24&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#85a87c&quot; d=&quot;M5 14.5C5 14.5 6.5 14.5 8.5 18C8.5 18 14.0588 8.83333 19 7&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
+&lt;p class=&quot;text-sm leading-tight&quot;&gt;&lt;meta charset=&quot;utf-8&quot;&gt;Ondersteunt jouw energieniveau en spieren&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;flex items-center gap-1 checks&quot;&gt;
+&lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;24&quot; width=&quot;24&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#85a87c&quot; d=&quot;M5 14.5C5 14.5 6.5 14.5 8.5 18C8.5 18 14.0588 8.83333 19 7&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
+&lt;p dir=&quot;ltr&quot; class=&quot;text-sm leading-tight&quot;&gt;&lt;span&gt;100% natuurlijk en geproduceerd in Nederland!&lt;/span&gt;&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt; &lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;flex items-center gap-2 daily-q&quot;&gt;
+&lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;10&quot; width=&quot;10&quot; class=&quot;icon&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;circle stroke-width=&quot;1.5&quot; stroke=&quot;#171717&quot; r=&quot;10&quot; cy=&quot;12&quot; cx=&quot;12&quot;&gt;&lt;/circle&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#171717&quot; d=&quot;M12 8V12L14 14&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
+&lt;p class=&quot;text-sm leading-tight&quot;&gt;2 capsules per dag&lt;/p&gt;
+&lt;/div&gt;</description>
   </product>
   <product>
     <sku/>
@@ -28,7 +60,23 @@
     <compare_at_price/>
     <available>true</available>
     <handle>test-abonnement</handle>
-    <description/>
+    <description>&lt;div class=&quot;flex items-center gap-1 checks&quot;&gt;
+&lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;24&quot; width=&quot;24&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#85a87c&quot; d=&quot;M5 14.5C5 14.5 6.5 14.5 8.5 18C8.5 18 14.0588 8.83333 19 7&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
+&lt;p class=&quot;text-sm leading-tight&quot;&gt;&lt;meta charset=&quot;utf-8&quot;&gt;De 5 best opneembare vormen in één capsule&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;flex items-center gap-1 checks&quot;&gt;
+&lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;24&quot; width=&quot;24&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#85a87c&quot; d=&quot;M5 14.5C5 14.5 6.5 14.5 8.5 18C8.5 18 14.0588 8.83333 19 7&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
+&lt;p class=&quot;text-sm leading-tight&quot;&gt;&lt;meta charset=&quot;utf-8&quot;&gt;Ondersteunt jouw energieniveau en spieren&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;flex items-center gap-1 checks&quot;&gt;
+&lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;24&quot; width=&quot;24&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#85a87c&quot; d=&quot;M5 14.5C5 14.5 6.5 14.5 8.5 18C8.5 18 14.0588 8.83333 19 7&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
+&lt;p dir=&quot;ltr&quot; class=&quot;text-sm leading-tight&quot;&gt;&lt;span&gt;100% natuurlijk en geproduceerd in Nederland!&lt;/span&gt;&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt; &lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;flex items-center gap-2 daily-q&quot;&gt;
+&lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;10&quot; width=&quot;10&quot; class=&quot;icon&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;circle stroke-width=&quot;1.5&quot; stroke=&quot;#171717&quot; r=&quot;10&quot; cy=&quot;12&quot; cx=&quot;12&quot;&gt;&lt;/circle&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#171717&quot; d=&quot;M12 8V12L14 14&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
+&lt;p class=&quot;text-sm leading-tight&quot;&gt;2 capsules per dag&lt;/p&gt;
+&lt;/div&gt;</description>
   </product>
   <product>
     <sku/>
