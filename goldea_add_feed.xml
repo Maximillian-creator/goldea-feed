@@ -1,6 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <products>
   <product>
+    <handle>test-abonnement</handle>
+    <title>TEST Abonnement</title>
+    <vendor>Goldea Health</vendor>
+    <brand>Goldea Health</brand>
+    <product_type/>
+    <tags>FIRMHOUSE_SUBSCRIPTION</tags>
+    <published>true</published>
+    <body_html>&lt;div class=&quot;flex items-center gap-1 checks&quot;&gt;
+&lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;24&quot; width=&quot;24&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#85a87c&quot; d=&quot;M5 14.5C5 14.5 6.5 14.5 8.5 18C8.5 18 14.0588 8.83333 19 7&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
+&lt;p class=&quot;text-sm leading-tight&quot;&gt;&lt;meta charset=&quot;utf-8&quot;&gt;De 5 best opneembare vormen in één capsule&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;flex items-center gap-1 checks&quot;&gt;
+&lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;24&quot; width=&quot;24&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#85a87c&quot; d=&quot;M5 14.5C5 14.5 6.5 14.5 8.5 18C8.5 18 14.0588 8.83333 19 7&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
+&lt;p class=&quot;text-sm leading-tight&quot;&gt;&lt;meta charset=&quot;utf-8&quot;&gt;Ondersteunt jouw energieniveau en spieren&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;flex items-center gap-1 checks&quot;&gt;
+&lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;24&quot; width=&quot;24&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#85a87c&quot; d=&quot;M5 14.5C5 14.5 6.5 14.5 8.5 18C8.5 18 14.0588 8.83333 19 7&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
+&lt;p dir=&quot;ltr&quot; class=&quot;text-sm leading-tight&quot;&gt;&lt;span&gt;100% natuurlijk en geproduceerd in Nederland!&lt;/span&gt;&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt; &lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;flex items-center gap-2 daily-q&quot;&gt;
+&lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;10&quot; width=&quot;10&quot; class=&quot;icon&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;circle stroke-width=&quot;1.5&quot; stroke=&quot;#171717&quot; r=&quot;10&quot; cy=&quot;12&quot; cx=&quot;12&quot;&gt;&lt;/circle&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#171717&quot; d=&quot;M12 8V12L14 14&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
+&lt;p class=&quot;text-sm leading-tight&quot;&gt;2 capsules per dag&lt;/p&gt;
+&lt;/div&gt;</body_html>
+    <description>&lt;div class=&quot;flex items-center gap-1 checks&quot;&gt;
+&lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;24&quot; width=&quot;24&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#85a87c&quot; d=&quot;M5 14.5C5 14.5 6.5 14.5 8.5 18C8.5 18 14.0588 8.83333 19 7&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
+&lt;p class=&quot;text-sm leading-tight&quot;&gt;&lt;meta charset=&quot;utf-8&quot;&gt;De 5 best opneembare vormen in één capsule&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;flex items-center gap-1 checks&quot;&gt;
+&lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;24&quot; width=&quot;24&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#85a87c&quot; d=&quot;M5 14.5C5 14.5 6.5 14.5 8.5 18C8.5 18 14.0588 8.83333 19 7&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
+&lt;p class=&quot;text-sm leading-tight&quot;&gt;&lt;meta charset=&quot;utf-8&quot;&gt;Ondersteunt jouw energieniveau en spieren&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;flex items-center gap-1 checks&quot;&gt;
+&lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;24&quot; width=&quot;24&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#85a87c&quot; d=&quot;M5 14.5C5 14.5 6.5 14.5 8.5 18C8.5 18 14.0588 8.83333 19 7&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
+&lt;p dir=&quot;ltr&quot; class=&quot;text-sm leading-tight&quot;&gt;&lt;span&gt;100% natuurlijk en geproduceerd in Nederland!&lt;/span&gt;&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt; &lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;flex items-center gap-2 daily-q&quot;&gt;
+&lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;10&quot; width=&quot;10&quot; class=&quot;icon&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;circle stroke-width=&quot;1.5&quot; stroke=&quot;#171717&quot; r=&quot;10&quot; cy=&quot;12&quot; cx=&quot;12&quot;&gt;&lt;/circle&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#171717&quot; d=&quot;M12 8V12L14 14&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
+&lt;p class=&quot;text-sm leading-tight&quot;&gt;2 capsules per dag&lt;/p&gt;
+&lt;/div&gt;</description>
+    <option1_name>Aantal</option1_name>
+    <option2_name/>
+    <option3_name/>
+    <images>
+      <image>
+        <src>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/hormone_balance_e9650c4c-75ad-4852-bbad-18cd05ba377a.png?v=1783434827</src>
+      </image>
+      <image>
+        <src>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/magnesium_in_schap.jpg?v=1783432993</src>
+      </image>
+      <image>
+        <src>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/GoldeaHealth_HOMEPAGE.jpg?v=1778492801</src>
+      </image>
+      <image>
+        <src>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/IMG_9308.jpg?v=1778061771</src>
+      </image>
+    </images>
+    <image_links>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/hormone_balance_e9650c4c-75ad-4852-bbad-18cd05ba377a.png?v=1783434827,https://cdn.shopify.com/s/files/1/0797/9797/7437/files/magnesium_in_schap.jpg?v=1783432993,https://cdn.shopify.com/s/files/1/0797/9797/7437/files/GoldeaHealth_HOMEPAGE.jpg?v=1778492801,https://cdn.shopify.com/s/files/1/0797/9797/7437/files/IMG_9308.jpg?v=1778061771</image_links>
+    <variants>
+      <variant>
+        <sku/>
+        <barcode/>
+        <price>27.95</price>
+        <compare_at_price/>
+        <available>true</available>
+        <variant_title>60 stuks</variant_title>
+        <option1>60 stuks</option1>
+        <option2/>
+        <option3/>
+        <weight/>
+        <weight_unit>g</weight_unit>
+        <image>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/hormone_balance_e9650c4c-75ad-4852-bbad-18cd05ba377a.png?v=1783434827</image>
+      </variant>
+      <variant>
+        <sku/>
+        <barcode/>
+        <price>74.95</price>
+        <compare_at_price/>
+        <available>true</available>
+        <variant_title>180</variant_title>
+        <option1>180</option1>
+        <option2/>
+        <option3/>
+        <weight/>
+        <weight_unit>g</weight_unit>
+        <image>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/hormone_balance_e9650c4c-75ad-4852-bbad-18cd05ba377a.png?v=1783434827</image>
+      </variant>
+      <variant>
+        <sku/>
+        <barcode/>
+        <price>139.95</price>
+        <compare_at_price/>
+        <available>true</available>
+        <variant_title>360</variant_title>
+        <option1>360</option1>
+        <option2/>
+        <option3/>
+        <weight/>
+        <weight_unit>g</weight_unit>
+        <image>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/hormone_balance_e9650c4c-75ad-4852-bbad-18cd05ba377a.png?v=1783434827</image>
+      </variant>
+    </variants>
+  </product>
+  <product>
     <handle>daily-essential-bundel</handle>
     <title>Daily Essential Bundel</title>
     <vendor>Goldea Health</vendor>
