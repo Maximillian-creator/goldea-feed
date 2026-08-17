@@ -30,7 +30,7 @@
     <sku/>
     <barcode/>
     <title>TEST Abonnement</title>
-    <price>74.95</price>
+    <price>0.10</price>
     <compare_at_price/>
     <available>true</available>
     <handle>test-abonnement</handle>
@@ -706,7 +706,7 @@
     <title>Power 5 Magnesium</title>
     <price>49.95</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <handle>power-5-magnesium</handle>
     <description>&lt;div class=&quot;flex items-center gap-1 checks&quot;&gt;
 &lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;24&quot; width=&quot;24&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#85a87c&quot; d=&quot;M5 14.5C5 14.5 6.5 14.5 8.5 18C8.5 18 14.0588 8.83333 19 7&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
