@@ -84,7 +84,7 @@
     <title>Daily Essential Bundel</title>
     <price>65.50</price>
     <compare_at_price>72.80</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <handle>daily-essential-bundel</handle>
     <description>&lt;div class=&quot;flex items-center gap-1 checks&quot;&gt;
 &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewbox=&quot;0 0 24 24&quot; fill=&quot;none&quot; style=&quot;min-width: 24px;&quot;&gt; &lt;path d=&quot;M5 14.5C5 14.5 6.5 14.5 8.5 18C8.5 18 14.0588 8.83333 19 7&quot; stroke=&quot;#85a87c&quot; stroke-width=&quot;1.5&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
@@ -124,7 +124,7 @@
     <title>Good Mood Bundel</title>
     <price>85.95</price>
     <compare_at_price>95.80</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <handle>good-mood-bundle</handle>
     <description>&lt;div class=&quot;flex items-center gap-1 checks&quot;&gt;
 &lt;svg style=&quot;min-width: 24px;&quot; fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;24&quot; width=&quot;24&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#85a87c&quot; d=&quot;M5 14.5C5 14.5 6.5 14.5 8.5 18C8.5 18 14.0588 8.83333 19 7&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
@@ -824,7 +824,7 @@
     <title>Vegan Omega 3</title>
     <price>19.95</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <handle>vegan-omega-3-algenolie</handle>
     <description>&lt;div class=&quot;flex items-center gap-1 checks&quot;&gt;
 &lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;24&quot; width=&quot;24&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#85a87c&quot; d=&quot;M5 14.5C5 14.5 6.5 14.5 8.5 18C8.5 18 14.0588 8.83333 19 7&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
