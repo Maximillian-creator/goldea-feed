@@ -78,7 +78,7 @@
       <variant>
         <sku/>
         <barcode/>
-        <price>74.95</price>
+        <price>0.10</price>
         <compare_at_price/>
         <available>true</available>
         <variant_title>180</variant_title>
@@ -189,7 +189,7 @@
         <barcode/>
         <price>65.50</price>
         <compare_at_price>72.80</compare_at_price>
-        <available>false</available>
+        <available>true</available>
         <variant_title>Default Title</variant_title>
         <option1>Default Title</option1>
         <option2/>
@@ -282,7 +282,7 @@
         <barcode/>
         <price>85.95</price>
         <compare_at_price>95.80</compare_at_price>
-        <available>false</available>
+        <available>true</available>
         <variant_title>Default Title</variant_title>
         <option1>Default Title</option1>
         <option2/>
@@ -1317,7 +1317,7 @@
         <barcode>8720865661049</barcode>
         <price>49.95</price>
         <compare_at_price/>
-        <available>false</available>
+        <available>true</available>
         <variant_title>120 stuks</variant_title>
         <option1>120 stuks</option1>
         <option2/>
@@ -1602,7 +1602,7 @@
         <barcode>8720299061514</barcode>
         <price>19.95</price>
         <compare_at_price/>
-        <available>false</available>
+        <available>true</available>
         <variant_title>30 stuks</variant_title>
         <option1>30 stuks</option1>
         <option2/>
