@@ -86,6 +86,7 @@ def main():
     start = time.time()
     products = gc.fetch_products()
     root = build_xml(products)
+    gc.controleer_omvang(len(root.findall("product")), OUTPUT_FILE)
     save_xml(root, OUTPUT_FILE)
     print(f"⏱️  Klaar in {time.time() - start:.0f}s — {len(products)} producten")
     print("\n📋 Feed-URL voor Stock Sync (Add products):")
