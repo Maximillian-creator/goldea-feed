@@ -1,84 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <products>
   <product>
-    <sku/>
-    <barcode/>
-    <title>TEST Abonnement</title>
-    <price>27.95</price>
-    <compare_at_price/>
-    <available>true</available>
-    <handle>test-abonnement</handle>
-    <description>&lt;div class=&quot;flex items-center gap-1 checks&quot;&gt;
-&lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;24&quot; width=&quot;24&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#85a87c&quot; d=&quot;M5 14.5C5 14.5 6.5 14.5 8.5 18C8.5 18 14.0588 8.83333 19 7&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
-&lt;p class=&quot;text-sm leading-tight&quot;&gt;&lt;meta charset=&quot;utf-8&quot;&gt;De 5 best opneembare vormen in één capsule&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;flex items-center gap-1 checks&quot;&gt;
-&lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;24&quot; width=&quot;24&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#85a87c&quot; d=&quot;M5 14.5C5 14.5 6.5 14.5 8.5 18C8.5 18 14.0588 8.83333 19 7&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
-&lt;p class=&quot;text-sm leading-tight&quot;&gt;&lt;meta charset=&quot;utf-8&quot;&gt;Ondersteunt jouw energieniveau en spieren&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;flex items-center gap-1 checks&quot;&gt;
-&lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;24&quot; width=&quot;24&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#85a87c&quot; d=&quot;M5 14.5C5 14.5 6.5 14.5 8.5 18C8.5 18 14.0588 8.83333 19 7&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
-&lt;p dir=&quot;ltr&quot; class=&quot;text-sm leading-tight&quot;&gt;&lt;span&gt;100% natuurlijk en geproduceerd in Nederland!&lt;/span&gt;&lt;/p&gt;
-&lt;p dir=&quot;ltr&quot;&gt; &lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;flex items-center gap-2 daily-q&quot;&gt;
-&lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;10&quot; width=&quot;10&quot; class=&quot;icon&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;circle stroke-width=&quot;1.5&quot; stroke=&quot;#171717&quot; r=&quot;10&quot; cy=&quot;12&quot; cx=&quot;12&quot;&gt;&lt;/circle&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#171717&quot; d=&quot;M12 8V12L14 14&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
-&lt;p class=&quot;text-sm leading-tight&quot;&gt;2 capsules per dag&lt;/p&gt;
-&lt;/div&gt;</description>
-  </product>
-  <product>
-    <sku/>
-    <barcode/>
-    <title>TEST Abonnement</title>
-    <price>0.10</price>
-    <compare_at_price/>
-    <available>true</available>
-    <handle>test-abonnement</handle>
-    <description>&lt;div class=&quot;flex items-center gap-1 checks&quot;&gt;
-&lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;24&quot; width=&quot;24&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#85a87c&quot; d=&quot;M5 14.5C5 14.5 6.5 14.5 8.5 18C8.5 18 14.0588 8.83333 19 7&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
-&lt;p class=&quot;text-sm leading-tight&quot;&gt;&lt;meta charset=&quot;utf-8&quot;&gt;De 5 best opneembare vormen in één capsule&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;flex items-center gap-1 checks&quot;&gt;
-&lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;24&quot; width=&quot;24&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#85a87c&quot; d=&quot;M5 14.5C5 14.5 6.5 14.5 8.5 18C8.5 18 14.0588 8.83333 19 7&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
-&lt;p class=&quot;text-sm leading-tight&quot;&gt;&lt;meta charset=&quot;utf-8&quot;&gt;Ondersteunt jouw energieniveau en spieren&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;flex items-center gap-1 checks&quot;&gt;
-&lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;24&quot; width=&quot;24&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#85a87c&quot; d=&quot;M5 14.5C5 14.5 6.5 14.5 8.5 18C8.5 18 14.0588 8.83333 19 7&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
-&lt;p dir=&quot;ltr&quot; class=&quot;text-sm leading-tight&quot;&gt;&lt;span&gt;100% natuurlijk en geproduceerd in Nederland!&lt;/span&gt;&lt;/p&gt;
-&lt;p dir=&quot;ltr&quot;&gt; &lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;flex items-center gap-2 daily-q&quot;&gt;
-&lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;10&quot; width=&quot;10&quot; class=&quot;icon&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;circle stroke-width=&quot;1.5&quot; stroke=&quot;#171717&quot; r=&quot;10&quot; cy=&quot;12&quot; cx=&quot;12&quot;&gt;&lt;/circle&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#171717&quot; d=&quot;M12 8V12L14 14&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
-&lt;p class=&quot;text-sm leading-tight&quot;&gt;2 capsules per dag&lt;/p&gt;
-&lt;/div&gt;</description>
-  </product>
-  <product>
-    <sku/>
-    <barcode/>
-    <title>TEST Abonnement</title>
-    <price>139.95</price>
-    <compare_at_price/>
-    <available>true</available>
-    <handle>test-abonnement</handle>
-    <description>&lt;div class=&quot;flex items-center gap-1 checks&quot;&gt;
-&lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;24&quot; width=&quot;24&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#85a87c&quot; d=&quot;M5 14.5C5 14.5 6.5 14.5 8.5 18C8.5 18 14.0588 8.83333 19 7&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
-&lt;p class=&quot;text-sm leading-tight&quot;&gt;&lt;meta charset=&quot;utf-8&quot;&gt;De 5 best opneembare vormen in één capsule&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;flex items-center gap-1 checks&quot;&gt;
-&lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;24&quot; width=&quot;24&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#85a87c&quot; d=&quot;M5 14.5C5 14.5 6.5 14.5 8.5 18C8.5 18 14.0588 8.83333 19 7&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
-&lt;p class=&quot;text-sm leading-tight&quot;&gt;&lt;meta charset=&quot;utf-8&quot;&gt;Ondersteunt jouw energieniveau en spieren&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;flex items-center gap-1 checks&quot;&gt;
-&lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;24&quot; width=&quot;24&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#85a87c&quot; d=&quot;M5 14.5C5 14.5 6.5 14.5 8.5 18C8.5 18 14.0588 8.83333 19 7&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
-&lt;p dir=&quot;ltr&quot; class=&quot;text-sm leading-tight&quot;&gt;&lt;span&gt;100% natuurlijk en geproduceerd in Nederland!&lt;/span&gt;&lt;/p&gt;
-&lt;p dir=&quot;ltr&quot;&gt; &lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;flex items-center gap-2 daily-q&quot;&gt;
-&lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;10&quot; width=&quot;10&quot; class=&quot;icon&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;circle stroke-width=&quot;1.5&quot; stroke=&quot;#171717&quot; r=&quot;10&quot; cy=&quot;12&quot; cx=&quot;12&quot;&gt;&lt;/circle&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#171717&quot; d=&quot;M12 8V12L14 14&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
-&lt;p class=&quot;text-sm leading-tight&quot;&gt;2 capsules per dag&lt;/p&gt;
-&lt;/div&gt;</description>
-  </product>
-  <product>
     <sku>8720865661087</sku>
     <barcode>8720865661087</barcode>
     <title>Power 4 Zink</title>
@@ -1607,19 +1529,19 @@
     <handle>vegan-omega-3-algenolie</handle>
     <description>&lt;div class=&quot;flex items-center gap-1 checks&quot;&gt;
 &lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;24&quot; width=&quot;24&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#85a87c&quot; d=&quot;M5 14.5C5 14.5 6.5 14.5 8.5 18C8.5 18 14.0588 8.83333 19 7&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
-&lt;p class=&quot;text-sm leading-tight&quot;&gt;Zuivere algenolie met EPA &amp; DHA&lt;/p&gt;
+&lt;p class=&quot;text-sm leading-tight&quot;&gt;Zuivere algenolie Omega3to1® met EPA &amp; DHA&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;flex items-center gap-1 checks&quot;&gt;
 &lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;24&quot; width=&quot;24&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#85a87c&quot; d=&quot;M5 14.5C5 14.5 6.5 14.5 8.5 18C8.5 18 14.0588 8.83333 19 7&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
-&lt;p class=&quot;text-sm leading-tight&quot;&gt;Lage TOTOX (oxidatie-waarde) van 1.7&lt;/p&gt;
+&lt;p class=&quot;text-sm leading-tight&quot;&gt;Hoge dosering van 500 mg in één softgel&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;flex items-center gap-1 checks&quot;&gt;
 &lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;24&quot; width=&quot;24&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#85a87c&quot; d=&quot;M5 14.5C5 14.5 6.5 14.5 8.5 18C8.5 18 14.0588 8.83333 19 7&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
-&lt;p class=&quot;text-sm leading-tight&quot;&gt;100% plantaardig en geproduceerd in Nederland&lt;br&gt;&lt;/p&gt;
+&lt;p class=&quot;text-sm leading-tight&quot;&gt;Geen vissmaak of oprispingen&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;flex items-center gap-2 daily-q&quot;&gt;
 &lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;icon&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;circle stroke-width=&quot;1.5&quot; stroke=&quot;#171717&quot; r=&quot;10&quot; cy=&quot;12&quot; cx=&quot;12&quot;&gt;&lt;/circle&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#171717&quot; d=&quot;M12 8V12L14 14&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
-&lt;p class=&quot;text-sm leading-tight&quot;&gt;1 a 2 softgel per dag&lt;/p&gt;
+&lt;p class=&quot;text-sm leading-tight&quot;&gt;1 softgel per dag&lt;/p&gt;
 &lt;/div&gt;</description>
   </product>
   <product>
@@ -1632,19 +1554,19 @@
     <handle>vegan-omega-3-algenolie</handle>
     <description>&lt;div class=&quot;flex items-center gap-1 checks&quot;&gt;
 &lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;24&quot; width=&quot;24&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#85a87c&quot; d=&quot;M5 14.5C5 14.5 6.5 14.5 8.5 18C8.5 18 14.0588 8.83333 19 7&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
-&lt;p class=&quot;text-sm leading-tight&quot;&gt;Zuivere algenolie met EPA &amp; DHA&lt;/p&gt;
+&lt;p class=&quot;text-sm leading-tight&quot;&gt;Zuivere algenolie Omega3to1® met EPA &amp; DHA&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;flex items-center gap-1 checks&quot;&gt;
 &lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;24&quot; width=&quot;24&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#85a87c&quot; d=&quot;M5 14.5C5 14.5 6.5 14.5 8.5 18C8.5 18 14.0588 8.83333 19 7&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
-&lt;p class=&quot;text-sm leading-tight&quot;&gt;Lage TOTOX (oxidatie-waarde) van 1.7&lt;/p&gt;
+&lt;p class=&quot;text-sm leading-tight&quot;&gt;Hoge dosering van 500 mg in één softgel&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;flex items-center gap-1 checks&quot;&gt;
 &lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;24&quot; width=&quot;24&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#85a87c&quot; d=&quot;M5 14.5C5 14.5 6.5 14.5 8.5 18C8.5 18 14.0588 8.83333 19 7&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
-&lt;p class=&quot;text-sm leading-tight&quot;&gt;100% plantaardig en geproduceerd in Nederland&lt;br&gt;&lt;/p&gt;
+&lt;p class=&quot;text-sm leading-tight&quot;&gt;Geen vissmaak of oprispingen&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;flex items-center gap-2 daily-q&quot;&gt;
 &lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;icon&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;circle stroke-width=&quot;1.5&quot; stroke=&quot;#171717&quot; r=&quot;10&quot; cy=&quot;12&quot; cx=&quot;12&quot;&gt;&lt;/circle&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#171717&quot; d=&quot;M12 8V12L14 14&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
-&lt;p class=&quot;text-sm leading-tight&quot;&gt;1 a 2 softgel per dag&lt;/p&gt;
+&lt;p class=&quot;text-sm leading-tight&quot;&gt;1 softgel per dag&lt;/p&gt;
 &lt;/div&gt;</description>
   </product>
   <product>
@@ -1657,19 +1579,19 @@
     <handle>vegan-omega-3-algenolie</handle>
     <description>&lt;div class=&quot;flex items-center gap-1 checks&quot;&gt;
 &lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;24&quot; width=&quot;24&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#85a87c&quot; d=&quot;M5 14.5C5 14.5 6.5 14.5 8.5 18C8.5 18 14.0588 8.83333 19 7&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
-&lt;p class=&quot;text-sm leading-tight&quot;&gt;Zuivere algenolie met EPA &amp; DHA&lt;/p&gt;
+&lt;p class=&quot;text-sm leading-tight&quot;&gt;Zuivere algenolie Omega3to1® met EPA &amp; DHA&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;flex items-center gap-1 checks&quot;&gt;
 &lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;24&quot; width=&quot;24&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#85a87c&quot; d=&quot;M5 14.5C5 14.5 6.5 14.5 8.5 18C8.5 18 14.0588 8.83333 19 7&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
-&lt;p class=&quot;text-sm leading-tight&quot;&gt;Lage TOTOX (oxidatie-waarde) van 1.7&lt;/p&gt;
+&lt;p class=&quot;text-sm leading-tight&quot;&gt;Hoge dosering van 500 mg in één softgel&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;flex items-center gap-1 checks&quot;&gt;
 &lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;24&quot; width=&quot;24&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#85a87c&quot; d=&quot;M5 14.5C5 14.5 6.5 14.5 8.5 18C8.5 18 14.0588 8.83333 19 7&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
-&lt;p class=&quot;text-sm leading-tight&quot;&gt;100% plantaardig en geproduceerd in Nederland&lt;br&gt;&lt;/p&gt;
+&lt;p class=&quot;text-sm leading-tight&quot;&gt;Geen vissmaak of oprispingen&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;flex items-center gap-2 daily-q&quot;&gt;
 &lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;icon&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;circle stroke-width=&quot;1.5&quot; stroke=&quot;#171717&quot; r=&quot;10&quot; cy=&quot;12&quot; cx=&quot;12&quot;&gt;&lt;/circle&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#171717&quot; d=&quot;M12 8V12L14 14&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
-&lt;p class=&quot;text-sm leading-tight&quot;&gt;1 a 2 softgel per dag&lt;/p&gt;
+&lt;p class=&quot;text-sm leading-tight&quot;&gt;1 softgel per dag&lt;/p&gt;
 &lt;/div&gt;</description>
   </product>
 </products>
