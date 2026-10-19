@@ -1,111 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <products>
   <product>
-    <handle>test-abonnement</handle>
-    <title>TEST Abonnement</title>
-    <vendor>Goldea Health</vendor>
-    <brand>Goldea Health</brand>
-    <product_type/>
-    <tags>FIRMHOUSE_SUBSCRIPTION</tags>
-    <published>true</published>
-    <body_html>&lt;div class=&quot;flex items-center gap-1 checks&quot;&gt;
-&lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;24&quot; width=&quot;24&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#85a87c&quot; d=&quot;M5 14.5C5 14.5 6.5 14.5 8.5 18C8.5 18 14.0588 8.83333 19 7&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
-&lt;p class=&quot;text-sm leading-tight&quot;&gt;&lt;meta charset=&quot;utf-8&quot;&gt;De 5 best opneembare vormen in één capsule&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;flex items-center gap-1 checks&quot;&gt;
-&lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;24&quot; width=&quot;24&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#85a87c&quot; d=&quot;M5 14.5C5 14.5 6.5 14.5 8.5 18C8.5 18 14.0588 8.83333 19 7&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
-&lt;p class=&quot;text-sm leading-tight&quot;&gt;&lt;meta charset=&quot;utf-8&quot;&gt;Ondersteunt jouw energieniveau en spieren&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;flex items-center gap-1 checks&quot;&gt;
-&lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;24&quot; width=&quot;24&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#85a87c&quot; d=&quot;M5 14.5C5 14.5 6.5 14.5 8.5 18C8.5 18 14.0588 8.83333 19 7&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
-&lt;p dir=&quot;ltr&quot; class=&quot;text-sm leading-tight&quot;&gt;&lt;span&gt;100% natuurlijk en geproduceerd in Nederland!&lt;/span&gt;&lt;/p&gt;
-&lt;p dir=&quot;ltr&quot;&gt; &lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;flex items-center gap-2 daily-q&quot;&gt;
-&lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;10&quot; width=&quot;10&quot; class=&quot;icon&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;circle stroke-width=&quot;1.5&quot; stroke=&quot;#171717&quot; r=&quot;10&quot; cy=&quot;12&quot; cx=&quot;12&quot;&gt;&lt;/circle&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#171717&quot; d=&quot;M12 8V12L14 14&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
-&lt;p class=&quot;text-sm leading-tight&quot;&gt;2 capsules per dag&lt;/p&gt;
-&lt;/div&gt;</body_html>
-    <description>&lt;div class=&quot;flex items-center gap-1 checks&quot;&gt;
-&lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;24&quot; width=&quot;24&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#85a87c&quot; d=&quot;M5 14.5C5 14.5 6.5 14.5 8.5 18C8.5 18 14.0588 8.83333 19 7&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
-&lt;p class=&quot;text-sm leading-tight&quot;&gt;&lt;meta charset=&quot;utf-8&quot;&gt;De 5 best opneembare vormen in één capsule&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;flex items-center gap-1 checks&quot;&gt;
-&lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;24&quot; width=&quot;24&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#85a87c&quot; d=&quot;M5 14.5C5 14.5 6.5 14.5 8.5 18C8.5 18 14.0588 8.83333 19 7&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
-&lt;p class=&quot;text-sm leading-tight&quot;&gt;&lt;meta charset=&quot;utf-8&quot;&gt;Ondersteunt jouw energieniveau en spieren&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;flex items-center gap-1 checks&quot;&gt;
-&lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;24&quot; width=&quot;24&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#85a87c&quot; d=&quot;M5 14.5C5 14.5 6.5 14.5 8.5 18C8.5 18 14.0588 8.83333 19 7&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
-&lt;p dir=&quot;ltr&quot; class=&quot;text-sm leading-tight&quot;&gt;&lt;span&gt;100% natuurlijk en geproduceerd in Nederland!&lt;/span&gt;&lt;/p&gt;
-&lt;p dir=&quot;ltr&quot;&gt; &lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;flex items-center gap-2 daily-q&quot;&gt;
-&lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;10&quot; width=&quot;10&quot; class=&quot;icon&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;circle stroke-width=&quot;1.5&quot; stroke=&quot;#171717&quot; r=&quot;10&quot; cy=&quot;12&quot; cx=&quot;12&quot;&gt;&lt;/circle&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#171717&quot; d=&quot;M12 8V12L14 14&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
-&lt;p class=&quot;text-sm leading-tight&quot;&gt;2 capsules per dag&lt;/p&gt;
-&lt;/div&gt;</description>
-    <option1_name>Aantal</option1_name>
-    <option2_name/>
-    <option3_name/>
-    <images>
-      <image>
-        <src>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/hormone_balance_e9650c4c-75ad-4852-bbad-18cd05ba377a.png?v=1783434827</src>
-      </image>
-      <image>
-        <src>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/magnesium_in_schap.jpg?v=1783432993</src>
-      </image>
-      <image>
-        <src>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/GoldeaHealth_HOMEPAGE.jpg?v=1778492801</src>
-      </image>
-      <image>
-        <src>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/IMG_9308.jpg?v=1778061771</src>
-      </image>
-    </images>
-    <image_links>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/hormone_balance_e9650c4c-75ad-4852-bbad-18cd05ba377a.png?v=1783434827,https://cdn.shopify.com/s/files/1/0797/9797/7437/files/magnesium_in_schap.jpg?v=1783432993,https://cdn.shopify.com/s/files/1/0797/9797/7437/files/GoldeaHealth_HOMEPAGE.jpg?v=1778492801,https://cdn.shopify.com/s/files/1/0797/9797/7437/files/IMG_9308.jpg?v=1778061771</image_links>
-    <variants>
-      <variant>
-        <sku/>
-        <barcode/>
-        <price>27.95</price>
-        <compare_at_price/>
-        <available>true</available>
-        <variant_title>60 stuks</variant_title>
-        <option1>60 stuks</option1>
-        <option2/>
-        <option3/>
-        <weight/>
-        <weight_unit>g</weight_unit>
-        <image>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/hormone_balance_e9650c4c-75ad-4852-bbad-18cd05ba377a.png?v=1783434827</image>
-      </variant>
-      <variant>
-        <sku/>
-        <barcode/>
-        <price>0.10</price>
-        <compare_at_price/>
-        <available>true</available>
-        <variant_title>180</variant_title>
-        <option1>180</option1>
-        <option2/>
-        <option3/>
-        <weight/>
-        <weight_unit>g</weight_unit>
-        <image>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/hormone_balance_e9650c4c-75ad-4852-bbad-18cd05ba377a.png?v=1783434827</image>
-      </variant>
-      <variant>
-        <sku/>
-        <barcode/>
-        <price>139.95</price>
-        <compare_at_price/>
-        <available>true</available>
-        <variant_title>360</variant_title>
-        <option1>360</option1>
-        <option2/>
-        <option3/>
-        <weight/>
-        <weight_unit>g</weight_unit>
-        <image>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/hormone_balance_e9650c4c-75ad-4852-bbad-18cd05ba377a.png?v=1783434827</image>
-      </variant>
-    </variants>
-  </product>
-  <product>
     <handle>power-4-zink-complex</handle>
     <title>Power 4 Zink</title>
     <vendor>Goldea Health</vendor>
@@ -1256,7 +1151,7 @@
     <vendor>Goldea Health</vendor>
     <brand>Goldea Health</brand>
     <product_type>Kruidenpreparaat, Mineralen, Sport, Vitamines</product_type>
-    <tags>Energy Gewrichten Nachtrust Stress, FIRMHOUSE_SUBSCRIPTION</tags>
+    <tags>Energy Gewrichten Nachtrust Stress, FIRMHOUSE_SUBSCRIPTION, verberg-eerste-foto</tags>
     <published>true</published>
     <body_html>&lt;div class=&quot;flex items-center gap-1 checks&quot;&gt;
 &lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;24&quot; width=&quot;24&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#85a87c&quot; d=&quot;M5 14.5C5 14.5 6.5 14.5 8.5 18C8.5 18 14.0588 8.83333 19 7&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
@@ -1311,28 +1206,40 @@
     <option3_name/>
     <images>
       <image>
-        <src>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/GoldeaHealth_06_POWER5_Front.jpg?v=1710578031</src>
+        <src>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/GoldeaHealth_06_POWER5_Front_4fefa745-8286-42a9-ad23-64e73f392344.jpg?v=1742912054</src>
       </image>
       <image>
-        <src>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/Power_5_Magnesium_Cherisa.jpg?v=1742912054</src>
+        <src>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/Hero-Magnesium.png?v=1791892599</src>
       </image>
       <image>
-        <src>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/GoldeaHealth_06_POWER5_sfeer.jpg?v=1742912054</src>
+        <src>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/Voordelen-Magnesium.png?v=1791892599</src>
       </image>
       <image>
-        <src>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/GoldeaHealth_Capsules_stripkopie_9b904331-4fc4-4985-a393-d84cabb257d2.jpg?v=1734365184</src>
+        <src>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/Vormen-Magnesium.png?v=1791892598</src>
       </image>
       <image>
-        <src>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/Goldea_vs_Regulier_-_Magnesium.png?v=1765697785</src>
+        <src>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/UsvsThem-Magnesium.png?v=1791892597</src>
       </image>
       <image>
-        <src>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/Power_5_Magnesium_-_Product_etiket_beige.png?v=1765697785</src>
+        <src>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/Claims-Magnesium.png?v=1791892598</src>
       </image>
       <image>
-        <src>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/GoldeaHealth_06_POWER5_Grootverpakking_Front.jpg?v=1765697785</src>
+        <src>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/USP-Magnesium.png?v=1791892597</src>
+      </image>
+      <image>
+        <src>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/Capsule-Magnesium.png?v=1791892599</src>
+      </image>
+      <image>
+        <src>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/Samenstelling-Magnesium.png?v=1791892597</src>
+      </image>
+      <image>
+        <src>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/Reviews-Magnesium.png?v=1791892600</src>
+      </image>
+      <image>
+        <src>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/Abonnement-Magnesium.png?v=1791892598</src>
       </image>
     </images>
-    <image_links>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/GoldeaHealth_06_POWER5_Front.jpg?v=1710578031,https://cdn.shopify.com/s/files/1/0797/9797/7437/files/Power_5_Magnesium_Cherisa.jpg?v=1742912054,https://cdn.shopify.com/s/files/1/0797/9797/7437/files/GoldeaHealth_06_POWER5_sfeer.jpg?v=1742912054,https://cdn.shopify.com/s/files/1/0797/9797/7437/files/GoldeaHealth_Capsules_stripkopie_9b904331-4fc4-4985-a393-d84cabb257d2.jpg?v=1734365184,https://cdn.shopify.com/s/files/1/0797/9797/7437/files/Goldea_vs_Regulier_-_Magnesium.png?v=1765697785,https://cdn.shopify.com/s/files/1/0797/9797/7437/files/Power_5_Magnesium_-_Product_etiket_beige.png?v=1765697785,https://cdn.shopify.com/s/files/1/0797/9797/7437/files/GoldeaHealth_06_POWER5_Grootverpakking_Front.jpg?v=1765697785</image_links>
+    <image_links>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/GoldeaHealth_06_POWER5_Front_4fefa745-8286-42a9-ad23-64e73f392344.jpg?v=1742912054,https://cdn.shopify.com/s/files/1/0797/9797/7437/files/Hero-Magnesium.png?v=1791892599,https://cdn.shopify.com/s/files/1/0797/9797/7437/files/Voordelen-Magnesium.png?v=1791892599,https://cdn.shopify.com/s/files/1/0797/9797/7437/files/Vormen-Magnesium.png?v=1791892598,https://cdn.shopify.com/s/files/1/0797/9797/7437/files/UsvsThem-Magnesium.png?v=1791892597,https://cdn.shopify.com/s/files/1/0797/9797/7437/files/Claims-Magnesium.png?v=1791892598,https://cdn.shopify.com/s/files/1/0797/9797/7437/files/USP-Magnesium.png?v=1791892597,https://cdn.shopify.com/s/files/1/0797/9797/7437/files/Capsule-Magnesium.png?v=1791892599,https://cdn.shopify.com/s/files/1/0797/9797/7437/files/Samenstelling-Magnesium.png?v=1791892597,https://cdn.shopify.com/s/files/1/0797/9797/7437/files/Reviews-Magnesium.png?v=1791892600,https://cdn.shopify.com/s/files/1/0797/9797/7437/files/Abonnement-Magnesium.png?v=1791892598</image_links>
     <variants>
       <variant>
         <sku>8720299061552</sku>
@@ -1346,7 +1253,7 @@
         <option3/>
         <weight/>
         <weight_unit>g</weight_unit>
-        <image>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/GoldeaHealth_06_POWER5_Front.jpg?v=1710578031</image>
+        <image>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/GoldeaHealth_06_POWER5_Front_4fefa745-8286-42a9-ad23-64e73f392344.jpg?v=1742912054</image>
       </variant>
       <variant>
         <sku>8720865661049</sku>
@@ -1360,7 +1267,7 @@
         <option3/>
         <weight/>
         <weight_unit>g</weight_unit>
-        <image>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/GoldeaHealth_06_POWER5_Grootverpakking_Front.jpg?v=1765697785</image>
+        <image>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/GoldeaHealth_06_POWER5_Front_4fefa745-8286-42a9-ad23-64e73f392344.jpg?v=1742912054</image>
       </variant>
       <variant>
         <sku>PWR5MG-180</sku>
@@ -1374,7 +1281,7 @@
         <option3/>
         <weight/>
         <weight_unit>g</weight_unit>
-        <image>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/GoldeaHealth_06_POWER5_Grootverpakking_Front.jpg?v=1765697785</image>
+        <image>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/GoldeaHealth_06_POWER5_Front_4fefa745-8286-42a9-ad23-64e73f392344.jpg?v=1742912054</image>
       </variant>
       <variant>
         <sku>PWR5MG-360</sku>
@@ -1388,7 +1295,7 @@
         <option3/>
         <weight/>
         <weight_unit>g</weight_unit>
-        <image>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/GoldeaHealth_06_POWER5_Grootverpakking_Front.jpg?v=1765697785</image>
+        <image>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/GoldeaHealth_06_POWER5_Front_4fefa745-8286-42a9-ad23-64e73f392344.jpg?v=1742912054</image>
       </variant>
     </variants>
   </product>
@@ -1644,39 +1551,39 @@
     <vendor>Goldea Health</vendor>
     <brand>Goldea Health</brand>
     <product_type>Vetten</product_type>
-    <tags>FIRMHOUSE_SUBSCRIPTION, Ogen</tags>
+    <tags>FIRMHOUSE_SUBSCRIPTION, Ogen, verberg-eerste-foto</tags>
     <published>true</published>
     <body_html>&lt;div class=&quot;flex items-center gap-1 checks&quot;&gt;
 &lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;24&quot; width=&quot;24&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#85a87c&quot; d=&quot;M5 14.5C5 14.5 6.5 14.5 8.5 18C8.5 18 14.0588 8.83333 19 7&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
-&lt;p class=&quot;text-sm leading-tight&quot;&gt;Zuivere algenolie met EPA &amp; DHA&lt;/p&gt;
+&lt;p class=&quot;text-sm leading-tight&quot;&gt;Zuivere algenolie Omega3to1® met EPA &amp; DHA&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;flex items-center gap-1 checks&quot;&gt;
 &lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;24&quot; width=&quot;24&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#85a87c&quot; d=&quot;M5 14.5C5 14.5 6.5 14.5 8.5 18C8.5 18 14.0588 8.83333 19 7&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
-&lt;p class=&quot;text-sm leading-tight&quot;&gt;Lage TOTOX (oxidatie-waarde) van 1.7&lt;/p&gt;
+&lt;p class=&quot;text-sm leading-tight&quot;&gt;Hoge dosering van 500 mg in één softgel&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;flex items-center gap-1 checks&quot;&gt;
 &lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;24&quot; width=&quot;24&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#85a87c&quot; d=&quot;M5 14.5C5 14.5 6.5 14.5 8.5 18C8.5 18 14.0588 8.83333 19 7&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
-&lt;p class=&quot;text-sm leading-tight&quot;&gt;100% plantaardig en geproduceerd in Nederland&lt;br&gt;&lt;/p&gt;
+&lt;p class=&quot;text-sm leading-tight&quot;&gt;Geen vissmaak of oprispingen&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;flex items-center gap-2 daily-q&quot;&gt;
 &lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;icon&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;circle stroke-width=&quot;1.5&quot; stroke=&quot;#171717&quot; r=&quot;10&quot; cy=&quot;12&quot; cx=&quot;12&quot;&gt;&lt;/circle&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#171717&quot; d=&quot;M12 8V12L14 14&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
-&lt;p class=&quot;text-sm leading-tight&quot;&gt;1 a 2 softgel per dag&lt;/p&gt;
+&lt;p class=&quot;text-sm leading-tight&quot;&gt;1 softgel per dag&lt;/p&gt;
 &lt;/div&gt;</body_html>
     <description>&lt;div class=&quot;flex items-center gap-1 checks&quot;&gt;
 &lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;24&quot; width=&quot;24&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#85a87c&quot; d=&quot;M5 14.5C5 14.5 6.5 14.5 8.5 18C8.5 18 14.0588 8.83333 19 7&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
-&lt;p class=&quot;text-sm leading-tight&quot;&gt;Zuivere algenolie met EPA &amp; DHA&lt;/p&gt;
+&lt;p class=&quot;text-sm leading-tight&quot;&gt;Zuivere algenolie Omega3to1® met EPA &amp; DHA&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;flex items-center gap-1 checks&quot;&gt;
 &lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;24&quot; width=&quot;24&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#85a87c&quot; d=&quot;M5 14.5C5 14.5 6.5 14.5 8.5 18C8.5 18 14.0588 8.83333 19 7&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
-&lt;p class=&quot;text-sm leading-tight&quot;&gt;Lage TOTOX (oxidatie-waarde) van 1.7&lt;/p&gt;
+&lt;p class=&quot;text-sm leading-tight&quot;&gt;Hoge dosering van 500 mg in één softgel&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;flex items-center gap-1 checks&quot;&gt;
 &lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;24&quot; width=&quot;24&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#85a87c&quot; d=&quot;M5 14.5C5 14.5 6.5 14.5 8.5 18C8.5 18 14.0588 8.83333 19 7&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
-&lt;p class=&quot;text-sm leading-tight&quot;&gt;100% plantaardig en geproduceerd in Nederland&lt;br&gt;&lt;/p&gt;
+&lt;p class=&quot;text-sm leading-tight&quot;&gt;Geen vissmaak of oprispingen&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;flex items-center gap-2 daily-q&quot;&gt;
 &lt;svg fill=&quot;none&quot; viewbox=&quot;0 0 24 24&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;icon&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;circle stroke-width=&quot;1.5&quot; stroke=&quot;#171717&quot; r=&quot;10&quot; cy=&quot;12&quot; cx=&quot;12&quot;&gt;&lt;/circle&gt; &lt;path stroke-linejoin=&quot;round&quot; stroke-linecap=&quot;round&quot; stroke-width=&quot;1.5&quot; stroke=&quot;#171717&quot; d=&quot;M12 8V12L14 14&quot;&gt;&lt;/path&gt; &lt;/svg&gt;
-&lt;p class=&quot;text-sm leading-tight&quot;&gt;1 a 2 softgel per dag&lt;/p&gt;
+&lt;p class=&quot;text-sm leading-tight&quot;&gt;1 softgel per dag&lt;/p&gt;
 &lt;/div&gt;</description>
     <option1_name>Inhoud</option1_name>
     <option2_name/>
@@ -1686,27 +1593,39 @@
         <src>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/GoldeaHealth_02_VeganOmega3_Front.jpg?v=1710577695</src>
       </image>
       <image>
-        <src>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/Vegan_Omega_3.jpg?v=1734365633</src>
+        <src>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/Hero_-_omega_3.png?v=1791883646</src>
       </image>
       <image>
-        <src>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/GoldeaHealth_02_VeganOmega3_sfeer.jpg?v=1748849840</src>
+        <src>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/Claims_-_omega_3.png?v=1791883646</src>
       </image>
       <image>
-        <src>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/Goldea_vs_Regulier_-_Omega_3.png?v=1765697734</src>
+        <src>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/Us_vs_Them_-_omega_3.png?v=1791883645</src>
       </image>
       <image>
-        <src>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/GoldeaHealth_03_VEGAND3_grootverpakking_Front.jpg?v=1744903121</src>
+        <src>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/Voordelen_-_omega_3.png?v=1791883645</src>
       </image>
       <image>
-        <src>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/Vegan_Omega_3_-_Product_etiket_beige.png?v=1765697078</src>
+        <src>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/USP_-_omega_3.png?v=1791883645</src>
+      </image>
+      <image>
+        <src>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/Capsule_-_omega_3.png?v=1791883645</src>
+      </image>
+      <image>
+        <src>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/Samenstelling_-_omega_3.png?v=1791883645</src>
+      </image>
+      <image>
+        <src>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/Reviews_-_omega_3.png?v=1791883646</src>
+      </image>
+      <image>
+        <src>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/Abonnement_-_omega_3.png?v=1791883645</src>
       </image>
     </images>
-    <image_links>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/GoldeaHealth_02_VeganOmega3_Front.jpg?v=1710577695,https://cdn.shopify.com/s/files/1/0797/9797/7437/files/Vegan_Omega_3.jpg?v=1734365633,https://cdn.shopify.com/s/files/1/0797/9797/7437/files/GoldeaHealth_02_VeganOmega3_sfeer.jpg?v=1748849840,https://cdn.shopify.com/s/files/1/0797/9797/7437/files/Goldea_vs_Regulier_-_Omega_3.png?v=1765697734,https://cdn.shopify.com/s/files/1/0797/9797/7437/files/GoldeaHealth_03_VEGAND3_grootverpakking_Front.jpg?v=1744903121,https://cdn.shopify.com/s/files/1/0797/9797/7437/files/Vegan_Omega_3_-_Product_etiket_beige.png?v=1765697078</image_links>
+    <image_links>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/GoldeaHealth_02_VeganOmega3_Front.jpg?v=1710577695,https://cdn.shopify.com/s/files/1/0797/9797/7437/files/Hero_-_omega_3.png?v=1791883646,https://cdn.shopify.com/s/files/1/0797/9797/7437/files/Claims_-_omega_3.png?v=1791883646,https://cdn.shopify.com/s/files/1/0797/9797/7437/files/Us_vs_Them_-_omega_3.png?v=1791883645,https://cdn.shopify.com/s/files/1/0797/9797/7437/files/Voordelen_-_omega_3.png?v=1791883645,https://cdn.shopify.com/s/files/1/0797/9797/7437/files/USP_-_omega_3.png?v=1791883645,https://cdn.shopify.com/s/files/1/0797/9797/7437/files/Capsule_-_omega_3.png?v=1791883645,https://cdn.shopify.com/s/files/1/0797/9797/7437/files/Samenstelling_-_omega_3.png?v=1791883645,https://cdn.shopify.com/s/files/1/0797/9797/7437/files/Reviews_-_omega_3.png?v=1791883646,https://cdn.shopify.com/s/files/1/0797/9797/7437/files/Abonnement_-_omega_3.png?v=1791883645</image_links>
     <variants>
       <variant>
         <sku>8720299061514</sku>
         <barcode>8720299061514</barcode>
-        <price>19.95</price>
+        <price>20.95</price>
         <compare_at_price/>
         <available>false</available>
         <variant_title>30 stuks</variant_title>
@@ -1720,7 +1639,7 @@
       <variant>
         <sku>8720865661063</sku>
         <barcode>8720865661063</barcode>
-        <price>53.95</price>
+        <price>56.55</price>
         <compare_at_price/>
         <available>false</available>
         <variant_title>90 stuks</variant_title>
@@ -1729,7 +1648,21 @@
         <option3/>
         <weight/>
         <weight_unit>g</weight_unit>
-        <image>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/GoldeaHealth_03_VEGAND3_grootverpakking_Front.jpg?v=1744903121</image>
+        <image>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/GoldeaHealth_02_VeganOmega3_Front.jpg?v=1710577695</image>
+      </variant>
+      <variant>
+        <sku>OMG3-180</sku>
+        <barcode/>
+        <price>106.95</price>
+        <compare_at_price/>
+        <available>false</available>
+        <variant_title>180 stuks</variant_title>
+        <option1>180 stuks</option1>
+        <option2/>
+        <option3/>
+        <weight/>
+        <weight_unit>g</weight_unit>
+        <image>https://cdn.shopify.com/s/files/1/0797/9797/7437/files/GoldeaHealth_02_VeganOmega3_Front.jpg?v=1710577695</image>
       </variant>
     </variants>
   </product>
